@@ -11,7 +11,7 @@
 **Class**  |  **Link**
 ----------- | ------------- 
 Read 01     |  [class-01](https://israaothman.github.io/reading-notes/class-01)
-Read 02     |  [class-02](http://)
+Read 02     |  [class-02](https://israaothman.github.io/reading-notes/class-02)
 Read 03     |  [class-03!](http://)
 Read 04     |  [class-04!](http://)
 Read 05     |  [class-05!](http://)
