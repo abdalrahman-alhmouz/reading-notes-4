@@ -8,7 +8,7 @@
 #### Table of content :
 **Classe**  |  **Link**
 ------------ | ------------- 
-Read 01 |  [claa-01!](https://israaothman.github.io/reading-notes/class-01)
+Read 01 |  [claa-01](https://israaothman.github.io/reading-notes/class-01)
 Read 02 |  [claa-02!](http://)
 Read 03 |  [claa-03!](http://)
 Read 04 |  [claa-04!](http://)
