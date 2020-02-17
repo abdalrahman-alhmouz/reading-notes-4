@@ -12,7 +12,7 @@
 ----------- | ------------- 
 Read 01     |  [class-01](https://israaothman.github.io/reading-notes/class-01)
 Read 02     |  [class-02](https://israaothman.github.io/reading-notes/class-02)
-Read 03     |  [class-03!](http://)
+Read 03     |  [class-03!](https://israaothman.github.io/reading-notes/class-03)
 Read 04     |  [class-04!](http://)
 Read 05     |  [class-05!](http://)
 Read 06     |  [class-06!](http://)
