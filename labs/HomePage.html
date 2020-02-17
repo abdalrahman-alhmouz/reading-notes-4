@@ -160,7 +160,7 @@ footer{
 
     <script> 
 
-     var name = prompt("Welcom to icdl course .. Please Enter your name ");
+     var name = prompt("Welcome to icdl course .. Please Enter your name ");
      console.log(name);
      var age = prompt("How old are you ? ");
      console.log(age);
@@ -168,12 +168,14 @@ footer{
      console.log(address);
      var courses =  prompt("What courses do you want to take with us ? ");
      console.log(courses);
+
+     alert(" Welcome " + name + " your are " + age + " years old " + " your living in " + address + " the courses you want to take : " + courses );
      
      var input1 = document.getElementById("input1");
      input1.append(" Welcome " + name );
 
          var input2 = document.getElementById("input2");
-     input2.append("your are " + age + " years old" );
+     input2.append(" your are " + age + " years old" );
 
          var input3 = document.getElementById("input3");
      input3.append(" your living in " + address);
