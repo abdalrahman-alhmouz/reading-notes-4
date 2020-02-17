@@ -1,31 +1,38 @@
 # Lists 
 In HTML 5 there is three types of lists :
 1. orderd list **(with numbers)**
+
   ```
-  <ol> 
-     <li>  </li>
-     <li>  </li>
-     <li>  </li>
-  </ol>
+        <ol> 
+            <li>  </li>
+            <li>  </li>
+            <li>  </li>
+        </ol>
+
   ```
 2. unorderd list **(with bullets)**
+
     ```
-    <ol> 
-        <li>  </li>
-        <li>  </li>
-        <li>  </li>
-    </ol>
+        <ul> 
+            <li>  </li>
+            <li>  </li>
+            <li>  </li>
+        </ul>
+
     ```
 3. definition list 
+
     ```
         <dl> 
             <dt>  definition term </dt>
             <dd> definition </dd>
         </ol>
+
     ```
 
 # Boxes 
-we know that each element on html has a space around it like a box and we can change the design of these boxses using some css styles like :
+we know that each element on html has a space around it like a box
+and we can change the design of these boxses using some css styles like :
 - width and hight
 - border 
 - margen 
@@ -40,13 +47,13 @@ the new thing is how to rewrite an if statment as a switch
 
 ```
 
- if(num == 0){
-    print zero 
-} else if (num == 1){
-    print one;
-}else {
-    print nothing 
-}
+    if(num == 0){
+        print zero 
+    } else if (num == 1){
+        print one;
+    }else {
+        print nothing 
+    }
 
 ```
 
@@ -68,15 +75,16 @@ the new thing is how to rewrite an if statment as a switch
 + also we can use decision statments inside the loops or the loops inside the decision statments , for example :
 
 ```
-if (name === 'israa'){
- while (i < 5) { 
-     print name;
-     i++ ;}
-} else { 
-  while ( i < 5) { 
-     print nothing;
-     i++; }
-}
+    if (name === 'israa'){
+    while (i < 5) { 
+        print name;
+        i++ ;}
+    } else { 
+    while ( i < 5) { 
+        print nothing;
+        i++; }
+    }
+    
 ```
   
  
