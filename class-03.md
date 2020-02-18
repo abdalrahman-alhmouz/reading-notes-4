@@ -35,7 +35,7 @@ we know that each element on html has a space around it like a box
 and we can change the design of these boxses using some css styles like :
 - width and hight
 - border 
-- margen 
+- margin 
 - padding 
 - display 
 
@@ -84,7 +84,7 @@ the new thing is how to rewrite an if statment as a switch
         print nothing;
         i++; }
     }
-    
+
 ```
   
  
