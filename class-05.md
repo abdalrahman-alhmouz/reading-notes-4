@@ -10,14 +10,15 @@
     
     ``` 
       <img src="image url.jpg" alt="the alternative for the photo" title=" /> 
+
     ```
-  we can also put attribets for the img :
+we can also put attribets for the img :
      - Height 
      - Width 
      - title 
      - align 
 
-  there is three rules for creating images :
+there is three rules for creating images :
    1. save Images In the right format
    2. save Images at the right sIze
    3. use the CorreCt resolution
@@ -27,7 +28,7 @@
   and there is three ways to indicate colors :
   1. ColoR Names    ``` color: red ; ```
   2. Hex Codes    ``` color: #ee3e80; ```
-  3. ColoR Names    ``` color: rgb(100,100,90); ```
+  3. RGB values    ``` color: rgb(100,100,90); ```
 
 
     
