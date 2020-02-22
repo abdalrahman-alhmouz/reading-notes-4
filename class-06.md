@@ -40,5 +40,9 @@
   - css selectors syntax 
 
 
-  
+# Article 
+  I read the article that talkes about **"Understanding The Problem Domain Is The Hardest Part Of Programming"** and I totally agree with it 
+  because you have to see what you are trying to build very clearly befor you start working on it so we have to :
+  1. Make the problem domain easier
+  2. Get better at understanding the problem domain
    
