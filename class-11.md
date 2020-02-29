@@ -38,3 +38,14 @@
       
    + when we put our site on the web we should have a domain name and a web hosting and its a good thing to use some Google Analystics to let you see how many people visit the site and their movment on it 
    + thers is a FTP program that allows us to transfer files from the local computer to the web server 
+
+# HTML5 video and audio
+  we can embed HTML5 video and audio using this code :
+
+    ``` 
+      <video controls>
+        <source src="name.mp4" type="video/mp4">
+      </video>
+    
+    ```
+ 
