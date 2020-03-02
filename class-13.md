@@ -4,7 +4,7 @@
   * and its never transmitted to the remote web server
 
  ## to access the HTML5 Storage 
-   first we should detect if whether using : 
+   first we should detect if the browser support it or not using : 
      ```
             function supports_html5_storage() {
         try {
@@ -15,4 +15,8 @@
         }
      
      ```
- ## 
+ ## methods we can use in this database 
+  - setItem(“key”,”value”)
+  - removeItem(“key”)
+  - getItem(“key”)
+  - clear()
