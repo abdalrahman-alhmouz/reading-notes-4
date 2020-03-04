@@ -24,7 +24,7 @@ Read 11     |  [class-11](https://israaothman.github.io/reading-notes/class-11)
 Read 12     |  [class-12](https://israaothman.github.io/reading-notes/class-12)
 Read 13     |  [class-13](https://israaothman.github.io/reading-notes/class-13)
 Read 14     |  [class-14a](https://israaothman.github.io/reading-notes/class-14a)
-Read 15     |  [class-15b](https://israaothman.github.io/reading-notes/class-14b)
+Read 15     |  [class-15b](https://israaothman.github.io/reading-notes/class-15)
 
 
 
