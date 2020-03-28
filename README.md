@@ -37,7 +37,7 @@ Read 15     |  [class-15b](https://israaothman.github.io/reading-notes/class-15)
 
 **Class**  |  **Link**
 ----------- | ------------- 
-Read 01     |  [class-01]()
+Read 01     |  [class-01](https://israaothman.github.io/reading-notes/301/class-01.md)
 Read 02     |  [class-02]()
 Read 03     |  [class-03]()
 Read 04     |  [class-04]()
