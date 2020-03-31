@@ -39,10 +39,11 @@
     - center
     - space-between
     - space-around
+    - space-evenly
   2. align-items / align-self
     - flex-start
     - flex-end
-    - cente
+    - center
     - baseline
     - stretch
   3. flex-direction
