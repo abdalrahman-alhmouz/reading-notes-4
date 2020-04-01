@@ -28,7 +28,7 @@
   1. RegExp methods :
      - exec()
      - test()
-  2. String methods :
+  2. String methods :  
       - match()
       - matchAll() 
       - replace() 
