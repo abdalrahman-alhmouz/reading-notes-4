@@ -20,3 +20,19 @@
 7. order 
   - integer 
 8. grid-template-columns
+
+
+# regular expression 
+    patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects.  
+    we will use the regular expression :
+  1. RegExp methods :
+     - exec()
+     - test()
+  2. String methods :
+      - match()
+      - matchAll() 
+      - replace() 
+      - search() 
+      - split()
+    
+  
