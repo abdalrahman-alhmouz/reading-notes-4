@@ -47,11 +47,11 @@ Read 07     |  [class-07](https://israaothman.github.io/reading-notes/301/class-
 Read 08     |  [class-08](https://israaothman.github.io/reading-notes/301/class-08)
 Read 09     |  [class-09](https://israaothman.github.io/reading-notes/301/class-09)
 Read 10     |  [class-10](https://israaothman.github.io/reading-notes/301/class-10)
-Read 11     |  [class-11]()
-Read 12     |  [class-12]()
-Read 13     |  [class-13]()
-Read 14     |  [class-14]()
-Read 15     |  [class-15]()
+Read 11     |  [class-11](https://israaothman.github.io/reading-notes/301/class-11)
+Read 12     |  [class-12](https://israaothman.github.io/reading-notes/301/class-12)
+Read 13     |  [class-13](https://israaothman.github.io/reading-notes/301/class-13)
+Read 14     |  [class-14](https://israaothman.github.io/reading-notes/301/class-14)
+Read 15     |  [class-15](https://israaothman.github.io/reading-notes/301/class-15)
 
 
 
