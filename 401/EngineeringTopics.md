@@ -1,6 +1,6 @@
 # Engineering Topics   
  
- ### Befor you start coding to solve any problem you should :  
+ ### Before you start coding to solve any problem you should :  
   1. Read the problem completely twice.  
   2. Solve the problem manually with 3 sets of sample data.  
   3. Optimize the manual steps.    
