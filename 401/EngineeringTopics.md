@@ -2,10 +2,10 @@
 
 ## Solving Problems  
     Before we start solving any problem we have to read it well and fully understand it to avoid errors during coding   
-    also the best practice is to solve the problem manually with 3 sets of sample data then optimize it to a manual steps (you can write the steps as a pseudo-code ) and after that optimize it to a real code 
+    also the best practice is to solve the problem manually with 3 sets of sample data then optimize it to manual steps (you can write the steps as a pseudo-code ) and after that optimize it to a real code 
     
   
-  
+
 ## Act like you make $1000/hr 
    from this article I figured out that if I placed a high value on my time, a lot of things will change, I will stop saying yes for a lot of things, I will think twice before I spend time for anything 
    Also I liked this qoute : 
@@ -18,7 +18,7 @@
    The worst way to solve a problem is to start coding and try a solution as a first step, even if it works.
    #### The write steps are ?
    1. Understand the problem  
-        try to explain it to make sure that you understane it 
+        try to explain it to make sure that you understand it 
    2. Plan   
         ask your self the right questions to know the right steps you should walkthrough
    3. Divide 
