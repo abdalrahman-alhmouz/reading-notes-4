@@ -64,10 +64,10 @@ Read 15     |  [class-15](https://israaothman.github.io/reading-notes/301/class-
 **Class**  |  **Link**
 ----------- | ------------- 
 Read 15     |  [class-00](https://israaothman.github.io/reading-notes/401/EngineeringTopics)
-Read 01     |  [class-01]()
-Read 02     |  [class-02]()
-Read 03     |  [class-03]()
-Read 04     |  [class-04]()
+Read 01     |  [class-01](https://israaothman.github.io/reading-notes/401/class-01)
+Read 02     |  [class-02](https://israaothman.github.io/reading-notes/401/class-02)
+Read 03     |  [class-03](https://israaothman.github.io/reading-notes/401/class-03)
+Read 04     |  [class-04](https://israaothman.github.io/reading-notes/401/class-04)
 Read 05     |  [class-05]()
 Read 06     |  [class-06]()
 Read 07     |  [class-07]()

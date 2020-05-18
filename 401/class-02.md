@@ -7,12 +7,12 @@
 
 
 ## In what case would you need to use beforeEach() or afterEach() in a test suite?  
-  I think we should use them befor and after we call a function   
+  I think we should use them before and after we call a function   
 
 
 ## What is one downside of Test Driven Development  
-  Its that to make the Test Driven Development in a properly way and to have all its advantages  
-  you will fail a lot befor you succeed  
+  Its that to make the Test Driven Development in a proper way and to have all its advantages  
+  you will fail a lot before you succeed  
 
 
 ## What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?  
@@ -35,7 +35,7 @@
 | pure function              | is a function which Given the same inputs, always returns the same output, and Has no side-effects|
 | higher-order function      | is any function which takes a function as an argument, returns a function, or both. |
 | immutable state            | Immutable data cannot change its structure or the data in it.
-* Objects: are complex and each object may contain any combination of the primitive data-types as well as reference data-types.and objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. |
+| Objects                    | are complex and each object may contain any combination of the primitive data-types as well as reference data-types.and objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. |
 | (OOP)                      | Object-oriented programming (OOP): is a programming paradigm based on the concept of "objects", In OOP, computer programs are designed by making them out of objects that interact with one another.  |
 | class                      | is an extensible program-code-template for creating objects  |
 | prototype                  |  is a property can be used to add methods to existing constructors |
