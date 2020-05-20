@@ -1,7 +1,7 @@
 # Data Modeling & NoSQL Databases
 
 ## Why would a developer choose to make data models?  
-  because it have a lot of advantages like :  
+  because it has a lot of advantages like :  
   - Provide very efficient "High-speed" retrieval.
   - Ability to handle more relationship types.
   - Ease of data access.
