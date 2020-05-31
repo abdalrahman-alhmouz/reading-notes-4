@@ -58,7 +58,8 @@ _The HTTP specification defines how requests and responses should be formatted, 
 
 
   #### Swagger :  
-    Swagger Docs present developers a way not only to see how to use an API but to actually use it. Yes, this is documentation that allows for live requests from with it.
+    Swagger Docs present developers a way not only to see how to use an API but to actually use it.  
+     Yes, this is documentation that allows for live requests from with it.
   
    
 
