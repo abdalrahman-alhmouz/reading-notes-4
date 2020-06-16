@@ -16,3 +16,9 @@
    - **payload** --> data associated with the event like  “record id, record information, error text”, etc.  
 
    
+## Real Time vs Queued Messaging
+  messages are simply brokered by the server.  
+  They come in, are processed and are immediately broadcast out to subscribers.  
+  Should a subscriber at any point lose connection with the server,  
+  any messages broadcast by the server will clearly be missed by the client. These are known as “Real Time” messaging systems.  
+  
