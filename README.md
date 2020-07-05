@@ -89,6 +89,8 @@ Read 28     |  [class-28](https://israaothman.github.io/reading-notes/401/class-
 Read 29     |  [class-29](https://israaothman.github.io/reading-notes/401/class-29)
 Read 30     |  [class-30](https://israaothman.github.io/reading-notes/401/class-30)
 Read 31     |  [class-31](https://israaothman.github.io/reading-notes/401/class-31)
+Read 32     |  [class-32](https://israaothman.github.io/reading-notes/401/class-32)
+
 
 
 
